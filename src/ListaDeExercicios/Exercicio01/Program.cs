@@ -11,6 +11,7 @@
                 - Exemplo de saída: O volume da caixa é 30 unidades cúbicas.*/
 
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
         }
     }
 }
