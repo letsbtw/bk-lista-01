@@ -42,8 +42,7 @@
    - Exemplo de entrada: 5, 10, 3
    - Exemplo de saída: Os números em ordem decrescente são 10, 5, 3.
 
-3. **Calcular o Índice de Massa Corporal (IMC) e determinar a condição de peso de um adulto.**
-   - Exemplo de entrada: Peso = 70 kg, Altura = 1.75 m
+   - Exemplo de entrada: Peso = 70 kg, Altura = 1.75 
    - Fórmula: IMC = Peso / (Altura^2)
    - Exemplo de saída: IMC = 22.86 (Peso normal).
 
