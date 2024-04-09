@@ -33,6 +33,7 @@
                 if ((ordem[i] < ordem[0] && ordem[i] < ordem[1]) || (ordem[i] < ordem[0] && ordem[i] < ordem[2]) || (ordem[i] < ordem[1] && ordem[i] < ordem[2]))
                 {
                     decrescent[2] = ordem[i];
+
                 }
             }
             Console.Write(decrescent[0] + " " + decrescent[1] + " " + decrescent[2]);
